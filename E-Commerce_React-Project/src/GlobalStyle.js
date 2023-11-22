@@ -95,7 +95,7 @@ ${"" /* resuable code section  */}
 }
 
 .grid-two-column {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-row: repeat(2, 2fr);
 
 }
 
