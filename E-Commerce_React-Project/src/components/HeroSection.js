@@ -87,7 +87,7 @@ const Wrapper = styled.section`
     height: auto;
   }
   .grid-two-column {
-    display: flex;
+    display: grid;
 }
 
   @media (max-width: ${({ theme }) => theme.media.mobile}) {
